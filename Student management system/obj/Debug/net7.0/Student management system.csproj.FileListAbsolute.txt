@@ -1,0 +1,20 @@
+/home/miki/RiderProjects/Student management system/Student management system/bin/Debug/net7.0/Student management system
+/home/miki/RiderProjects/Student management system/Student management system/bin/Debug/net7.0/Student management system.deps.json
+/home/miki/RiderProjects/Student management system/Student management system/bin/Debug/net7.0/Student management system.runtimeconfig.json
+/home/miki/RiderProjects/Student management system/Student management system/bin/Debug/net7.0/Student management system.dll
+/home/miki/RiderProjects/Student management system/Student management system/bin/Debug/net7.0/Student management system.pdb
+/home/miki/RiderProjects/Student management system/Student management system/obj/Debug/net7.0/Student management system.csproj.AssemblyReference.cache
+/home/miki/RiderProjects/Student management system/Student management system/obj/Debug/net7.0/Student management system.GeneratedMSBuildEditorConfig.editorconfig
+/home/miki/RiderProjects/Student management system/Student management system/obj/Debug/net7.0/Student management system.AssemblyInfoInputs.cache
+/home/miki/RiderProjects/Student management system/Student management system/obj/Debug/net7.0/Student management system.AssemblyInfo.cs
+/home/miki/RiderProjects/Student management system/Student management system/obj/Debug/net7.0/Student management system.csproj.CoreCompileInputs.cache
+/home/miki/RiderProjects/Student management system/Student management system/obj/Debug/net7.0/Student management system.dll
+/home/miki/RiderProjects/Student management system/Student management system/obj/Debug/net7.0/refint/Student management system.dll
+/home/miki/RiderProjects/Student management system/Student management system/obj/Debug/net7.0/Student management system.pdb
+/home/miki/RiderProjects/Student management system/Student management system/obj/Debug/net7.0/Student management system.genruntimeconfig.cache
+/home/miki/RiderProjects/Student management system/Student management system/obj/Debug/net7.0/ref/Student management system.dll
+/home/miki/RiderProjects/Student management system/Student management system/bin/Debug/net7.0/System.Text.Encodings.Web.dll
+/home/miki/RiderProjects/Student management system/Student management system/bin/Debug/net7.0/System.Text.Json.dll
+/home/miki/RiderProjects/Student management system/Student management system/bin/Debug/net7.0/runtimes/browser/lib/net7.0/System.Text.Encodings.Web.dll
+/home/miki/RiderProjects/Student management system/Student management system/obj/Debug/net7.0/Student management system.csproj.CopyComplete
+/home/miki/RiderProjects/Student management system/Student management system/bin/Debug/net7.0/Newtonsoft.Json.dll
